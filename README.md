@@ -13,9 +13,9 @@
     ·
     <div>
      <h4>CoderTrivia</h4>
-      <img src='./CapstoneHome.png'>
-      <img src='./Capstone1.png'>
-      <img src='./Capstone3.png'>
+      <img src='../style/quizMenu'>
+       <img src='../style/quizTeacher'>
+       <img src='../style/quizQuiz'>
     </div>
    
     ·
