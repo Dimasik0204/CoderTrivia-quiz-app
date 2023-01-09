@@ -9,8 +9,7 @@
     <br />
     <hr>
     <br />
-    <br />
-    ·
+ 
     <div>
      <h4>CoderTrivia</h4>
       <img src='https://github.com/Dimasik0204/CoderTrivia-quiz-app/blob/master/quizMenu.png'>
