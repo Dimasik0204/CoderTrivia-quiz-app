@@ -13,9 +13,10 @@
     ·
     <div>
      <h4>CoderTrivia</h4>
-      <img src='.quizMenu'>
-       <img src='.quizTeacher'>
-       <img src='.quizQuiz'>
+      <img src='https://github.com/Dimasik0204/CoderTrivia-quiz-app/blob/master/quizMenu.png'>
+       <img src='https://github.com/Dimasik0204/CoderTrivia-quiz-app/blob/master/quizTeacher.png'>
+       <img src='https://github.com/Dimasik0204/CoderTrivia-quiz-app/blob/master/quizQuiz.png'>
+       <img src='https://github.com/Dimasik0204/CoderTrivia-quiz-app/blob/master/quizResults.png'>
     </div>
    
     ·
