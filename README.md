@@ -13,9 +13,9 @@
     ·
     <div>
      <h4>CoderTrivia</h4>
-      <img src='../style/quizMenu'>
-       <img src='../style/quizTeacher'>
-       <img src='../style/quizQuiz'>
+      <img src='.quizMenu'>
+       <img src='.quizTeacher'>
+       <img src='.quizQuiz'>
     </div>
    
     ·
